@@ -1,0 +1,14 @@
+.body {
+    background-color: aquamarine;
+    display: flex;
+}
+
+h1 {
+    width: 20rem;
+    height: 50px;
+    font-size: x-large;
+}
+nav {
+    position: center;
+    
+}
